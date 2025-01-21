@@ -1,0 +1,6 @@
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:Bluepitaya-1/learning-cxx.git
+[submodule "exams"]
+	path = exams
+	url = git@github.com:Bluepitaya-1/InfiniTensorTest.git
